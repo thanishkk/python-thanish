@@ -1,0 +1,15 @@
+a=["c","c++","java","PHP","data visulization",data science","IOT","cloud","big data"]
+print(a)
+a.insert(4"python")print(a)
+a.remove("cloud")
+print(a)
+a.append("waston")
+print(a)
+a.pop()
+a="visualization"
+print(len(a))
+a=["c","c++","java","PHP","data visulization","data science","IOT","cloud","big data"]
+a.pop(0)
+a.pop(1)
+a.pop(2)
+print(a)
