@@ -1,0 +1,11 @@
+class vehicle:
+ def_init_(self,name,mileage,capacity):
+  self.name=name
+  self.mileage=mileage
+  self.capacity=capacity
+def fare(self)
+  return self.capacity
+class bus (vechile):
+ pass
+school_bus=bus("school volvo",12,5)
+print("total bus fare is:,school_bus.fare())
